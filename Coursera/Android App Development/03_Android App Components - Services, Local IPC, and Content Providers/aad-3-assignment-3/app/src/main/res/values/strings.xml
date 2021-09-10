@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">aad-3-assg-3</string>
+
+    <string name="sample_show_log">Show Log</string>
+    <string name="sample_hide_log">Hide Log</string>
+
+    <string name="intro_message">
+        <![CDATA[Assignment 3: This assignment introduces Content Providers.\n\nThis App downloads the most recent CNN YouTube listings, presents them below, and allows for saving of the last listing to the phone.]]>
+    </string>
+    <string name="toggle_log">Toggle Log</string>
+    <string name="author">author</string>
+    <string name="title">title</string>
+    <string name="fill_provider">Add to Provider</string>
+    <string name="load_from_provider">Read from Provider</string>
+    <string name="delete_provider">Delete Provider Contents</string>
+    <string name="online">Toggle Online Testing</string>
+
+</resources>
