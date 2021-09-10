@@ -1,0 +1,158 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Programs\OnlineCourseWork\Coursera\Android App Development\01_Java_For_Android\m3-shapes\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\Programs\OnlineCourseWork\Coursera\Android App Development\01_Java_For_Android\m3-shapes\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\Programs\OnlineCourseWork\Coursera\Android App Development\01_Java_For_Android\m3-shapes\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\Programs\OnlineCourseWork\Coursera\Android App Development\01_Java_For_Android\m3-shapes\app\src\main\AndroidManifest.xml:2:1-22:12
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\305af3f14e4ab522684e5db69e31567b\material-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\300331aea51d5839089d3b3bb6eedcd2\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\43bd8a31425c6d8514f8b3fefdff1038\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\f915d0aad20cf4a82ac612a18473e420\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\cc3119310c06cb9bc7a4316da6960f04\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\e54daeb84fb71d6bd760ce7ef09008f8\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\d772859650d65179e829bcfd816c98b1\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\ed91c30b64412725329413dfc8ede88d\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\0c1e9c829738b52a9e345dddd250a61a\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\be2c215b87898d7af2e06ba1ae010d6b\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\bd05d62d5bbef186461a3aaeb684a9e8\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\5af3ce6a1a48a1c73ebf7087f66ee1ce\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\e604d837af8318313c20e2bb43dcf640\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\aeedea6ed77f92e5eb8f46f739505018\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\7f9b2d4b98c9c5d1214e2b882b146891\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\a96222399c4001e564780bdb246acc6a\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\e95aff41b8badc6f6221148710c554d9\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\4c2677f0a2371080dee853e6c6303149\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\2cc4bade299ac015269446c168056d9a\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\eaa7db2ad7df02051ebee520412fe32a\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\8d49565821c001d958143ac96e5c8447\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\ba8e1ffe0374508ed08ac3fc1e62bb55\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\187bea48d974397abba6421eab50511e\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\401882b965435ff1f2c87e6ee496c433\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\ea182c42c4f7dbd1576654f2d5ead369\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\eca15088cc74e6ae1e0d6a4ceed6a7cf\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\db0276c6928b50e57c43e31bb9be220c\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\Programs\OnlineCourseWork\Coursera\Android App Development\01_Java_For_Android\m3-shapes\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\Programs\OnlineCourseWork\Coursera\Android App Development\01_Java_For_Android\m3-shapes\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\Programs\OnlineCourseWork\Coursera\Android App Development\01_Java_For_Android\m3-shapes\app\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from E:\Programs\OnlineCourseWork\Coursera\Android App Development\01_Java_For_Android\m3-shapes\app\src\main\AndroidManifest.xml:4:5-45
+		INJECTED from E:\Programs\OnlineCourseWork\Coursera\Android App Development\01_Java_For_Android\m3-shapes\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Programs\OnlineCourseWork\Coursera\Android App Development\01_Java_For_Android\m3-shapes\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Programs\OnlineCourseWork\Coursera\Android App Development\01_Java_For_Android\m3-shapes\app\src\main\AndroidManifest.xml
+		ADDED from E:\Programs\OnlineCourseWork\Coursera\Android App Development\01_Java_For_Android\m3-shapes\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from E:\Programs\OnlineCourseWork\Coursera\Android App Development\01_Java_For_Android\m3-shapes\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\Programs\OnlineCourseWork\Coursera\Android App Development\01_Java_For_Android\m3-shapes\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from E:\Programs\OnlineCourseWork\Coursera\Android App Development\01_Java_For_Android\m3-shapes\app\src\main\AndroidManifest.xml
+		ADDED from E:\Programs\OnlineCourseWork\Coursera\Android App Development\01_Java_For_Android\m3-shapes\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from E:\Programs\OnlineCourseWork\Coursera\Android App Development\01_Java_For_Android\m3-shapes\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Programs\OnlineCourseWork\Coursera\Android App Development\01_Java_For_Android\m3-shapes\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from E:\Programs\OnlineCourseWork\Coursera\Android App Development\01_Java_For_Android\m3-shapes\app\src\main\AndroidManifest.xml:6:5-20:19
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\305af3f14e4ab522684e5db69e31567b\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\305af3f14e4ab522684e5db69e31567b\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\43bd8a31425c6d8514f8b3fefdff1038\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\43bd8a31425c6d8514f8b3fefdff1038\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\e95aff41b8badc6f6221148710c554d9\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\e95aff41b8badc6f6221148710c554d9\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\eaa7db2ad7df02051ebee520412fe32a\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\eaa7db2ad7df02051ebee520412fe32a\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\e95aff41b8badc6f6221148710c554d9\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from E:\Programs\OnlineCourseWork\Coursera\Android App Development\01_Java_For_Android\m3-shapes\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from E:\Programs\OnlineCourseWork\Coursera\Android App Development\01_Java_For_Android\m3-shapes\app\src\main\AndroidManifest.xml:9:9-41
+	tools:ignore
+		ADDED from E:\Programs\OnlineCourseWork\Coursera\Android App Development\01_Java_For_Android\m3-shapes\app\src\main\AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from E:\Programs\OnlineCourseWork\Coursera\Android App Development\01_Java_For_Android\m3-shapes\app\src\main\AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from E:\Programs\OnlineCourseWork\Coursera\Android App Development\01_Java_For_Android\m3-shapes\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from E:\Programs\OnlineCourseWork\Coursera\Android App Development\01_Java_For_Android\m3-shapes\app\src\main\AndroidManifest.xml:11:9-40
+activity#mooc.vandy.java4android.shapes.ui.MainActivity
+ADDED from E:\Programs\OnlineCourseWork\Coursera\Android App Development\01_Java_For_Android\m3-shapes\app\src\main\AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from E:\Programs\OnlineCourseWork\Coursera\Android App Development\01_Java_For_Android\m3-shapes\app\src\main\AndroidManifest.xml:13:19-80
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Programs\OnlineCourseWork\Coursera\Android App Development\01_Java_For_Android\m3-shapes\app\src\main\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from E:\Programs\OnlineCourseWork\Coursera\Android App Development\01_Java_For_Android\m3-shapes\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from E:\Programs\OnlineCourseWork\Coursera\Android App Development\01_Java_For_Android\m3-shapes\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Programs\OnlineCourseWork\Coursera\Android App Development\01_Java_For_Android\m3-shapes\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from E:\Programs\OnlineCourseWork\Coursera\Android App Development\01_Java_For_Android\m3-shapes\app\src\main\AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from E:\Programs\OnlineCourseWork\Coursera\Android App Development\01_Java_For_Android\m3-shapes\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Programs\OnlineCourseWork\Coursera\Android App Development\01_Java_For_Android\m3-shapes\app\src\main\AndroidManifest.xml
+INJECTED from E:\Programs\OnlineCourseWork\Coursera\Android App Development\01_Java_For_Android\m3-shapes\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\305af3f14e4ab522684e5db69e31567b\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\305af3f14e4ab522684e5db69e31567b\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\300331aea51d5839089d3b3bb6eedcd2\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\300331aea51d5839089d3b3bb6eedcd2\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\43bd8a31425c6d8514f8b3fefdff1038\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\43bd8a31425c6d8514f8b3fefdff1038\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\f915d0aad20cf4a82ac612a18473e420\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\f915d0aad20cf4a82ac612a18473e420\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\cc3119310c06cb9bc7a4316da6960f04\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\cc3119310c06cb9bc7a4316da6960f04\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\e54daeb84fb71d6bd760ce7ef09008f8\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\e54daeb84fb71d6bd760ce7ef09008f8\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\d772859650d65179e829bcfd816c98b1\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\d772859650d65179e829bcfd816c98b1\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\ed91c30b64412725329413dfc8ede88d\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\ed91c30b64412725329413dfc8ede88d\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\0c1e9c829738b52a9e345dddd250a61a\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\0c1e9c829738b52a9e345dddd250a61a\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\be2c215b87898d7af2e06ba1ae010d6b\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\be2c215b87898d7af2e06ba1ae010d6b\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\bd05d62d5bbef186461a3aaeb684a9e8\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\bd05d62d5bbef186461a3aaeb684a9e8\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\5af3ce6a1a48a1c73ebf7087f66ee1ce\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\5af3ce6a1a48a1c73ebf7087f66ee1ce\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\e604d837af8318313c20e2bb43dcf640\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\e604d837af8318313c20e2bb43dcf640\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\aeedea6ed77f92e5eb8f46f739505018\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\aeedea6ed77f92e5eb8f46f739505018\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\7f9b2d4b98c9c5d1214e2b882b146891\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\7f9b2d4b98c9c5d1214e2b882b146891\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\a96222399c4001e564780bdb246acc6a\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\a96222399c4001e564780bdb246acc6a\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\e95aff41b8badc6f6221148710c554d9\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\e95aff41b8badc6f6221148710c554d9\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\4c2677f0a2371080dee853e6c6303149\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\4c2677f0a2371080dee853e6c6303149\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\2cc4bade299ac015269446c168056d9a\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\2cc4bade299ac015269446c168056d9a\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\eaa7db2ad7df02051ebee520412fe32a\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\eaa7db2ad7df02051ebee520412fe32a\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\8d49565821c001d958143ac96e5c8447\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\8d49565821c001d958143ac96e5c8447\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\ba8e1ffe0374508ed08ac3fc1e62bb55\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\ba8e1ffe0374508ed08ac3fc1e62bb55\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\187bea48d974397abba6421eab50511e\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\187bea48d974397abba6421eab50511e\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\401882b965435ff1f2c87e6ee496c433\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\401882b965435ff1f2c87e6ee496c433\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\ea182c42c4f7dbd1576654f2d5ead369\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\ea182c42c4f7dbd1576654f2d5ead369\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\eca15088cc74e6ae1e0d6a4ceed6a7cf\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\eca15088cc74e6ae1e0d6a4ceed6a7cf\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\db0276c6928b50e57c43e31bb9be220c\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Miteswati\.gradle\caches\transforms-2\files-2.1\db0276c6928b50e57c43e31bb9be220c\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+INJECTED from E:\Programs\OnlineCourseWork\Coursera\Android App Development\01_Java_For_Android\m3-shapes\app\src\main\AndroidManifest.xml
+INJECTED from E:\Programs\OnlineCourseWork\Coursera\Android App Development\01_Java_For_Android\m3-shapes\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\Programs\OnlineCourseWork\Coursera\Android App Development\01_Java_For_Android\m3-shapes\app\src\main\AndroidManifest.xml
+		ADDED from E:\Programs\OnlineCourseWork\Coursera\Android App Development\01_Java_For_Android\m3-shapes\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Programs\OnlineCourseWork\Coursera\Android App Development\01_Java_For_Android\m3-shapes\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Programs\OnlineCourseWork\Coursera\Android App Development\01_Java_For_Android\m3-shapes\app\src\main\AndroidManifest.xml
+		ADDED from E:\Programs\OnlineCourseWork\Coursera\Android App Development\01_Java_For_Android\m3-shapes\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Programs\OnlineCourseWork\Coursera\Android App Development\01_Java_For_Android\m3-shapes\app\src\main\AndroidManifest.xml
