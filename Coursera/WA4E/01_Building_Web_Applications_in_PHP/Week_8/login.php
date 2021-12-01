@@ -7,7 +7,7 @@ if ( isset($_POST['cancel'] ) ) {
 }
 
 $salt = 'XyZzy12*_';
-$stored_hash = 'a8609e8d62c043243c4e201cbb342862';  // Pw is meow123
+$stored_hash = '1a52e17fa899cf40fb04cfc42e6352f1';  // Pw is php123
 
 $failure = false;  // If we have no POST data
 
@@ -33,7 +33,7 @@ if ( isset($_POST['who']) && isset($_POST['pass']) ) {
 <html>
 <head>
 <?php require_once "bootstrap.php"; ?>
-<title>Chuck Severance's Login Page</title>
+<title>1250cf3c Yash Kavaiya</title>
 </head>
 <body>
 <div class="container">

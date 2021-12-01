@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Rock Paper Scissors</title>
+	<title>1250cf3c Yash Kavaiya</title>
 	<?php require_once "bootstrap.php"; ?>
 </head>
 

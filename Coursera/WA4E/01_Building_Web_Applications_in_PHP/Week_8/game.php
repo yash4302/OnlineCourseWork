@@ -43,7 +43,7 @@ $result = check($computer, $human);
 <!DOCTYPE html>
 <html>
 <head>
-<title>Dr. Chuck's Rock, Paper, Scissors Game</title>
+<title>1250cf3c Yash Kavaiya</title>
 <?php require_once "bootstrap.php"; ?>
 </head>
 <body>

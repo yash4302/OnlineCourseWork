@@ -1,11 +1,30 @@
-import urllib.request, urllib.parse, urllib.error
+# To run this, download the BeautifulSoup zip file
+# http://www.py4e.com/code3/bs4.zip
+# and unzip it in the same directory as this file
 
-fhand = urllib.request.urlopen("http://data.pr4e.org/romeo.txt")
-counts = dict()
+from urllib.request import urlopen
+from bs4 import BeautifulSoup
+import ssl
 
-for line in fhand:
-    words = line.decode().split()
-    for word in words:
-        counts[word] = counts.get(word, 0) + 1
+# Ignore SSL certificate errors
+ctx = ssl.create_default_context()
+ctx.check_hostname = False
+ctx.verify_mode = ssl.CERT_NONE
 
-print(counts)
+url = input('Enter - ')
+html = urlopen(url, context=ctx).read()
+soup = BeautifulSoup(html, "html.parser")
+sum = 0
+
+# Retrieve all of the anchor tags
+tags = soup('span')
+for tag in tags:
+    # Look at the parts of a tag
+    #print('TAG:', tag)
+    #print('URL:', tag.get('href', None))
+    #print('Contents:', tag.contents[0])
+    #print('Attrs:', tag.attrs)
+    
+    sum += int(tag.contents[0])
+
+print(sum)
